@@ -1,3 +1,3 @@
 # priceRegression
 
-This project takes 100,000 cars across 13 different makers and runs a regressional analysis to predict automobile pricing.
+This project takes a list of VolksWagen cars and runs pricing analysis on them finding.
